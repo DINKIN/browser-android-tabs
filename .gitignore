@@ -442,7 +442,6 @@ vs-chromium-project.txt
 /third_party/syzygy/binaries
 /third_party/tsan/
 /third_party/ub-uiautomator/lib
-/third_party/usb_ids
 /third_party/usrsctp/usrsctplib
 /third_party/v8-i18n
 /third_party/valgrind
